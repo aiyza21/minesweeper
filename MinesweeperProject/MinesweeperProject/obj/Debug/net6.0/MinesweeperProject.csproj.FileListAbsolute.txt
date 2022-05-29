@@ -1,0 +1,15 @@
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.csproj.AssemblyReference.cache
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.AssemblyInfoInputs.cache
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.AssemblyInfo.cs
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.csproj.CoreCompileInputs.cache
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/bin/Debug/net6.0/MinesweeperProject
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/bin/Debug/net6.0/MinesweeperProject.deps.json
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/bin/Debug/net6.0/MinesweeperProject.runtimeconfig.json
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/bin/Debug/net6.0/MinesweeperProject.dll
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/bin/Debug/net6.0/MinesweeperProject.pdb
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.dll
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/refint/MinesweeperProject.dll
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.pdb
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/MinesweeperProject.genruntimeconfig.cache
+/Users/aiyshazahid/Desktop/MinesweeperProject/MinesweeperProject/obj/Debug/net6.0/ref/MinesweeperProject.dll
